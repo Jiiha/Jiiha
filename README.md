@@ -1,4 +1,6 @@
-![MasterHead] <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/e3/c7/73/e3c773e9c6b9dc75b006eac929b1a8fc.gif" width="864" height="450">
+<p align="center">
+ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/e3/c7/73/e3c773e9c6b9dc75b006eac929b1a8fc.gif" width="500" height="450">
+<p align="center">
 <h1 align="center">Hi, I'm Wajiiha</h1>
 <h3 align="center">A fullstack developer from Mauritius ❣</h3>
 <p align="center">
