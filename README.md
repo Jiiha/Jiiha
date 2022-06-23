@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wajiiha</h1>
 <h3 align="center">A fullstack developer from Mauritius</h3>
-<img align="center" alt="Coding" width="200" src="https://i.pinimg.com/originals/a6/1f/a9/a61fa9cd9ceea378758a639416afe711.gif">
+<img align="center" margin-left="auto" margin-right="auto" alt="Coding" width="200" src="https://i.pinimg.com/originals/a6/1f/a9/a61fa9cd9ceea378758a639416afe711.gif">
 
 - 📫 How to reach me **wajiiha.coowar@gmail.com**
 
