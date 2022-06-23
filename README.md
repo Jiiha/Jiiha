@@ -1,4 +1,4 @@
-[![MasterHead](https://[1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://i.pinimg.com/originals/e8/ac/ba/e8acba9ea62dfe29b80dfd7b0d5f55fc.gif))
+[![MasterHead]([1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://i.pinimg.com/originals/e8/ac/ba/e8acba9ea62dfe29b80dfd7b0d5f55fc.gif))
 <h1 align="center">Hi, I'm Wajiiha</h1>
 <h3 align="center">A fullstack developer from Mauritius ❣</h3>
 <p align="center">
