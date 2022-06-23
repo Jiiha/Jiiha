@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wajiiha</h1>
-<h3 align="center">A fullstack developer from Mauritius</h3>
+<h1 align="center">Hi, I'm Wajiiha</h1>
+<h3 align="center">A fullstack developer from Mauritius ❣</h3>
 <p align="center">
  <img alt="Coding" width="200" src="https://i.pinimg.com/originals/a6/1f/a9/a61fa9cd9ceea378758a639416afe711.gif">
 </p>
