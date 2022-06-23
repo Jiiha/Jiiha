@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e8/ac/ba/e8acba9ea62dfe29b80dfd7b0d5f55fc.gif)
+[![MasterHead](https://i.pinimg.com/originals/96/ff/18/96ff183d17ee5099254f7d8d9c3d2ca0.gif)
 <h1 align="center">Hi, I'm Wajiiha</h1>
 <h3 align="center">A fullstack developer from Mauritius ❣</h3>
 <p align="center">
